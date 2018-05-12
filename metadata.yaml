@@ -1,0 +1,41 @@
+_repo: The-Enchiridion_45109
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+covers:
+- cover_type: archival
+  image_path: 45109-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Epictetus
+    aliases:
+    - Epitteto
+    - Epicteto
+    - Epiktit
+    birthdate: 55
+    deathdate: 135
+    gutenberg_agent_id: '452'
+    url: http://www.gutenberg.org/2009/agents/452
+    wikipedia: http://en.wikipedia.org/wiki/Epictetus
+description: 'Bevat o.a. ook: Jo. Danielis Snecani Notae.'
+gutenberg_issued: '2014-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics, Ancient'
+- !lcsh 'Conduct of life -- Early works to 1800'
+- !lcc 'B'
+title: The Enchiridion
+url: http://www.gutenberg.org/ebooks/45109
